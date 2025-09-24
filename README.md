@@ -1,4 +1,5 @@
-Overview
+#Overview
+
 Double Entry is a finance storytelling application developed by Team Double Entry for Hackbattle 2025.
 The application transforms financial activities into dynamic narratives, offering users a more engaging way to understand their income, expenses, and financial trends. By combining intuitive storytelling with predictive insights, Double Entry provides a privacy-conscious approach to personal finance visualization.
 Features
